@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw3OTM5cW13bngwdXQ5aW5hemw0d2QwZHdkc3E0bmVhbXJzdDY4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6dKL3oRj5NWqL647CN/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw3OTM5cW13bngwdXQ5aW5hemw0d2QwZHdkc3E0bmVhbXJzdDY4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6dKL3oRj5NWqL647CN/giphy.gif"  />
 </div>
 
 ###
 
-<h5 align="left">hey there 👋</h5>
+<h4 align="left">hey there 👋</h4>
 
 ###
 
-<p align="left">I'm @deviatovae <br><br>- 🔭  Frontend developer going down the fullstack path<br>- 🌱  I'm currently learning Node.js<br>- 💥  Dreaming big, audacious dream ...</p>
+<p align="left">I'm @deviatovae <br><br>- 🔭  Frontend developer going down the fullstack path<br>- 🌱  I'm currently learning Node.js<br>- 💥  Dreaming big, audacious dreams ...</p>
 
 ###
 
