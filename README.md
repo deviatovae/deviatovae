@@ -28,6 +28,6 @@
 
 <br clear="both">
 
-<p align="left">I'm @deviatovae <br><br>-  Frontend developer going down the fullstack path<br>- 🌱  I'm currently learning Node.js<br>- 💥  Dreaming big, audacious dreams ...</p>
+<p align="left">I'm @deviatovae <br><br>-  Fullstack developer<br>- 💥  Dreaming big, audacious dreams ...</p>
 
 ###
